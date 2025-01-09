@@ -7,6 +7,7 @@ The source of dataset as link below:
 https://github.com/MoH-Malaysia/covid19-public
 
 Model architecture
+
 ![image](https://github.com/user-attachments/assets/c4776128-1631-4184-940e-82e56b513ecd)
 
 Performance of the model
